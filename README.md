@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Erika from Faculty of Computing in Universiti Teknologi Malaysia (UTM)
+### Welcome, everyone! 👋
+I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).
 <h1 align="center">Hi 👋, I'm Erika</h1>
 <h3 align="center">A passionate student from Universiti Teknologi Malaysia</h3>
 
