@@ -1,6 +1,6 @@
 ## WELCOME EVERYONE!
 
-![hello](https://github.com/erikahawapi/erikahawapi/assets/148413074/b6d2872c-f7c8-444f-b34a-f45bcebcf72f)
+<h3 align="center">![hello](https://github.com/erikahawapi/erikahawapi/assets/148413074/b6d2872c-f7c8-444f-b34a-f45bcebcf72f)
 <h3 align="center">I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
