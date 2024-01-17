@@ -1,8 +1,6 @@
 <h1 align="center">WELCOME EVERYONE!</h1>
-![hello](https://github.com/erikahawapi/erikahawapi/assets/148413074/c03b5a12-a037-4c5f-ab52-aaf1068ba172)
 
-
-## Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing
+<h1 align="center"> ## Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing </h1>
 
 I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).</h3>
 <h3 align="left">Connect with me: erikahawapi123@gmail.com
