@@ -26,6 +26,25 @@ For any inquiries or communication, feel free to contact me via email at erikaha
 * Excellent PT3 Student Award (2019)
 * School Librarian (2018-2019)
 * Young Engineer Challenge Award (2018)
+  
+### Skills:
+#### Leadership Skill
+##### Collaborative Leadership:
+I believe in the power of collaboration. I've successfully led diverse teams to accomplish challenging objectives through effective team management and open communication, leveraging each member's strengths.
+
+#### Communication Skill
+##### Active Listening:
+Understanding others is fundamental to effective communication. I prioritize active listening to comprehend diverse perspectives, fostering an inclusive environment that values everyone's input.
+
+#### Problem-Solving Skill
+##### Creative Problem-Solving:
+I thrive on thinking outside the box. Combining creativity with analytical skills, I've successfully developed innovative solutions to problems, contributing to the overall success of various projects.
+
+##### Decision-Making:
+In fast-paced environments, making informed decisions is crucial. I am decisive and use a combination of data-driven insights and intuition to make sound judgments that lead to positive outcomes.
+
+## ADDITIONAL
+### Sport:
 
 ### Connect with me:
 <p align="left">
