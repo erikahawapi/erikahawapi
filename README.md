@@ -1,4 +1,5 @@
-<h1 align="center">WELCOME EVERYONE!</h1>
+<h1 align="center">WELCOME EVERYONE!</h1> ![295796685-e89eae1e-0f9e-40dc-a58f-02e0ecfbb35e](https://github.com/erikahawapi/erikahawapi/assets/148413074/17dd9875-3314-414b-a1be-fab41b5b5bf5)
+
 
 ## Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing
 
