@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME EVERYONE!</h1>
 
-<h2 align="center"> Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing 
+<h2 align="center"> Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing </h2>
 
 I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).</h3>
 <h3 align="left">Connect with me: erikahawapi123@gmail.com
