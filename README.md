@@ -19,12 +19,12 @@ For any inquiries or communication, feel free to contact me via email at erikaha
 * Technical Institute Of Johor Bahru (2020-2021)
 * SMK Skudai (2017-2019)
 
-### Achievements/Certificate
+### Achievements/Certificate:
 * Excellent SPM Student Award (2021)
 * Excellent Student of Mechanical Engineering Award (2021)
 * Malaysian Red Crescent (2020-2021)
 * Excellent PT3 Student Award (2019)
-* * School Librarian (2018-2019)
+* School Librarian (2018-2019)
 * Young Engineer Challenge Award (2018)
 
 ### Connect with me:
