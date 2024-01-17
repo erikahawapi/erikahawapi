@@ -46,6 +46,10 @@ In fast-paced environments, making informed decisions is crucial. I am decisive 
 
 ## ADDITIONAL
 ### Sport:
+In 2023, as I eagerly stepped onto the UTM campus, little did I know that a thrilling adventure in kayaking awaited me. It all began when I took the plunge and joined the kayak team, igniting a passion propelling me forward ever since.
+
+Kayaking isn't just about navigating turbulent waters; it's about finding equilibrium in uncertainty. The lessons learned on the lake—perseverance, adaptability, and resilience—have become guiding principles shaping my athletic journey and my approach to life.
+
 ![Vision Board Photo Collage](https://github.com/erikahawapi/erikahawapi/assets/148413074/06e57485-9d34-44bd-bfd3-c7884c4f5c73)
 
 
