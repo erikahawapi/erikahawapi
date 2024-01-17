@@ -5,7 +5,10 @@
 ![erika](https://github.com/erikahawapi/erikahawapi/assets/148413074/56706bd7-51d5-48fb-8b46-faafaaa1acac)
 
 
-I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).</h3>
+Greetings! I'm Erika Binti Hawapi, a dedicated student navigating the exciting academic journey at the University Teknologi Malaysia (UTM). I'm currently into Computer Science (Graphics And Multimedia Software).
+
+University life isn't just about textbooks and lectures! When not immersed in the world of coding, you'll find me navigating the waters with a kayak paddle in hand. UTM offers more than just classrooms; it's a canvas for personal growth and adventure.
+
 <h3 align="left">Connect with me: erikahawapi123@gmail.com
 <p align="left">
 </p>
