@@ -12,7 +12,8 @@ University life isn't just about textbooks and lectures! When not immersed in th
 Fuelled by the spirit of discovery, my academic journey is a stepping stone towards my system developer goal. Every challenge faced and every lesson I learned at UTM is shaping the narrative of my future success. Embark on this academic journey with me, where every lesson is a step forward, and every experience is a chapter worth remembering!
 For any inquiries or communication, feel free to contact me via email at erikahawapi123@gmail.com. I look forward to hearing from you!
 
-## EDUCATION
+## CORE
+### Education:
 * University of Technology Malaysia (2023-NOW)
 * Melaka Matriculation College (2022-2023)
 * Technical Institute Of Johor Bahru (2020-2021)
