@@ -2,7 +2,8 @@
 
 <h2 align="center"> Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing </h2>
 
-![erika](https://github.com/erikahawapi/erikahawapi/assets/148413074/479d9609-6b01-4171-8521-df9f7736dac4)
+
+![erika2](https://github.com/erikahawapi/erikahawapi/assets/148413074/c811c976-d6fa-4662-8cee-8f845208330a)
 
 
 I'm Erika, a first-year student in the Computer Graphic and Multimedia Course at Universiti Teknologi Malaysia (UTM).</h3>
