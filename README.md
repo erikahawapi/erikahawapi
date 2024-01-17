@@ -40,8 +40,14 @@ I thrive on thinking outside the box. Combining creativity with analytical skill
 #### Decision-Making
 In fast-paced environments, making informed decisions is crucial. I am decisive and use a combination of data-driven insights and intuition to make sound judgments that lead to positive outcomes.
 
+### Languages and Tools:
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
 ## ADDITIONAL
 ### Sport:
+![Vision Board Photo Collage](https://github.com/erikahawapi/erikahawapi/assets/148413074/06e57485-9d34-44bd-bfd3-c7884c4f5c73)
+
 
 ### Connect with me:
 <p align="left">
@@ -49,8 +55,6 @@ In fast-paced environments, making informed decisions is crucial. I am decisive 
 <a href="https://instagram.com/erikahawapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikahawapi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
 <!--
