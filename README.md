@@ -13,6 +13,10 @@ Fuelled by the spirit of discovery, my academic journey is a stepping stone towa
 For any inquiries or communication, feel free to contact me via email at erikahawapi123@gmail.com. I look forward to hearing from you!
 
 ## EDUCATION
+* University of Technology Malaysia (2023-NOW)
+* Melaka Matriculation College (2022-2023)
+* Technical Institute Of Johor Bahru (2020-2021)
+* SMK Skudai (2017-2019) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
