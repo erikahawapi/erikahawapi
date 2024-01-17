@@ -17,9 +17,17 @@ For any inquiries or communication, feel free to contact me via email at erikaha
 * University of Technology Malaysia (2023-NOW)
 * Melaka Matriculation College (2022-2023)
 * Technical Institute Of Johor Bahru (2020-2021)
-* SMK Skudai (2017-2019) 
+* SMK Skudai (2017-2019)
 
-<h3 align="left">Connect with me:</h3>
+### Achievements/Certificate
+* Excellent SPM Student Award (2021)
+* Excellent Student of Mechanical Engineering Award (2021)
+* Malaysian Red Crescent (2020-2021)
+* Excellent PT3 Student Award (2019)
+* * School Librarian (2018-2019)
+* Young Engineer Challenge Award (2018)
+
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/erikahawapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikahawapi" height="30" width="40" /></a>
 <a href="https://instagram.com/erikahawapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikahawapi" height="30" width="40" /></a>
