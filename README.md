@@ -4,6 +4,7 @@
 
 ![erika](https://github.com/erikahawapi/erikahawapi/assets/148413074/56706bd7-51d5-48fb-8b46-faafaaa1acac)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 Greetings! I'm Erika Binti Hawapi, a dedicated student navigating the exciting academic journey at the University Teknologi Malaysia (UTM). I'm currently into Computer Science (Graphics And Multimedia Software).
 
