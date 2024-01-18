@@ -50,7 +50,8 @@ In 2023, as I eagerly stepped onto the UTM campus, little did I know that a thri
 
 Kayaking isn't just about navigating turbulent waters; it's about finding equilibrium in uncertainty. The lessons learned on the lake—perseverance, adaptability, and resilience—have become guiding principles shaping my athletic journey and my approach to life.
 
-![Vision Board Photo Collage](https://github.com/erikahawapi/erikahawapi/assets/148413074/06e57485-9d34-44bd-bfd3-c7884c4f5c73)
+![Vision Board Photo Collage](https://github.com/erikahawapi/erikahawapi/assets/148413074/f9b52a84-ac1f-4f7a-972d-ab9f047e901b)
+
 
 
 ### Connect with me:
